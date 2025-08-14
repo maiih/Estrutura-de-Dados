@@ -1,0 +1,57 @@
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\bin\Debug\net9.0\Arrays.exe
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\bin\Debug\net9.0\Arrays.deps.json
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\bin\Debug\net9.0\Arrays.dll
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\bin\Debug\net9.0\Arrays.pdb
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\obj\Debug\net9.0\Arrays.dll
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\obj\Debug\net9.0\Arrays.pdb
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+C:\Users\429257\Desktop\Estrutura de Dados I\Atividades\Arrays\obj\Debug\net9.0\ref\Arrays.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\bin\Debug\net9.0\Arrays.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\bin\Debug\net9.0\Arrays.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\bin\Debug\net9.0\Arrays.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\bin\Debug\net9.0\Arrays.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\obj\Debug\net9.0\Arrays.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\obj\Debug\net9.0\refint\Arrays.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\obj\Debug\net9.0\Arrays.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\arrays\obj\Debug\net9.0\ref\Arrays.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\bin\Debug\net9.0\Arrays.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\bin\Debug\net9.0\Arrays.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\bin\Debug\net9.0\Arrays.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\bin\Debug\net9.0\Arrays.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\bin\Debug\net9.0\Arrays.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\obj\Debug\net9.0\Arrays.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\obj\Debug\net9.0\refint\Arrays.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\obj\Debug\net9.0\Arrays.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Exercicios\obj\Debug\net9.0\ref\Arrays.dll
+C:\Users\450890\Desktop\estrutura de dados\atividades\bin\Debug\net9.0\Arrays.exe
+C:\Users\450890\Desktop\estrutura de dados\atividades\bin\Debug\net9.0\Arrays.deps.json
+C:\Users\450890\Desktop\estrutura de dados\atividades\bin\Debug\net9.0\Arrays.runtimeconfig.json
+C:\Users\450890\Desktop\estrutura de dados\atividades\bin\Debug\net9.0\Arrays.dll
+C:\Users\450890\Desktop\estrutura de dados\atividades\bin\Debug\net9.0\Arrays.pdb
+C:\Users\450890\Desktop\estrutura de dados\atividades\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\450890\Desktop\estrutura de dados\atividades\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\450890\Desktop\estrutura de dados\atividades\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+C:\Users\450890\Desktop\estrutura de dados\atividades\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\450890\Desktop\estrutura de dados\atividades\obj\Debug\net9.0\Arrays.dll
+C:\Users\450890\Desktop\estrutura de dados\atividades\obj\Debug\net9.0\refint\Arrays.dll
+C:\Users\450890\Desktop\estrutura de dados\atividades\obj\Debug\net9.0\Arrays.pdb
+C:\Users\450890\Desktop\estrutura de dados\atividades\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+C:\Users\450890\Desktop\estrutura de dados\atividades\obj\Debug\net9.0\ref\Arrays.dll
+C:\Users\450890\Desktop\estrutura de dados\atividades\obj\Debug\net9.0\Arrays.sourcelink.json
