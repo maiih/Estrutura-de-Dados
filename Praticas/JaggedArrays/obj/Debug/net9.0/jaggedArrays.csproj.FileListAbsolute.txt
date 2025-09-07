@@ -1,0 +1,14 @@
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\bin\Debug\net9.0\jaggedArrays.exe
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\bin\Debug\net9.0\jaggedArrays.deps.json
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\bin\Debug\net9.0\jaggedArrays.runtimeconfig.json
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\bin\Debug\net9.0\jaggedArrays.dll
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\bin\Debug\net9.0\jaggedArrays.pdb
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\obj\Debug\net9.0\jaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\obj\Debug\net9.0\jaggedArrays.AssemblyInfoInputs.cache
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\obj\Debug\net9.0\jaggedArrays.AssemblyInfo.cs
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\obj\Debug\net9.0\jaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\obj\Debug\net9.0\jaggedArrays.dll
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\obj\Debug\net9.0\refint\jaggedArrays.dll
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\obj\Debug\net9.0\jaggedArrays.pdb
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\obj\Debug\net9.0\jaggedArrays.genruntimeconfig.cache
+C:\Users\maiih\Downloads\Estrutura-de-Dados\jaggedArrays\obj\Debug\net9.0\ref\jaggedArrays.dll

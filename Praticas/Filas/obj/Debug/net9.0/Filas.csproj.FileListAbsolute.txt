@@ -1,0 +1,14 @@
+C:\Users\maiih\Filas\bin\Debug\net9.0\Filas.exe
+C:\Users\maiih\Filas\bin\Debug\net9.0\Filas.deps.json
+C:\Users\maiih\Filas\bin\Debug\net9.0\Filas.runtimeconfig.json
+C:\Users\maiih\Filas\bin\Debug\net9.0\Filas.dll
+C:\Users\maiih\Filas\bin\Debug\net9.0\Filas.pdb
+C:\Users\maiih\Filas\obj\Debug\net9.0\Filas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiih\Filas\obj\Debug\net9.0\Filas.AssemblyInfoInputs.cache
+C:\Users\maiih\Filas\obj\Debug\net9.0\Filas.AssemblyInfo.cs
+C:\Users\maiih\Filas\obj\Debug\net9.0\Filas.csproj.CoreCompileInputs.cache
+C:\Users\maiih\Filas\obj\Debug\net9.0\Filas.dll
+C:\Users\maiih\Filas\obj\Debug\net9.0\refint\Filas.dll
+C:\Users\maiih\Filas\obj\Debug\net9.0\Filas.pdb
+C:\Users\maiih\Filas\obj\Debug\net9.0\Filas.genruntimeconfig.cache
+C:\Users\maiih\Filas\obj\Debug\net9.0\ref\Filas.dll

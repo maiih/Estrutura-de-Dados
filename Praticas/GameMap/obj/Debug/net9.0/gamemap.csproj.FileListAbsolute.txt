@@ -1,0 +1,14 @@
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\bin\Debug\net9.0\gamemap.exe
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\bin\Debug\net9.0\gamemap.deps.json
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\bin\Debug\net9.0\gamemap.runtimeconfig.json
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\bin\Debug\net9.0\gamemap.dll
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\bin\Debug\net9.0\gamemap.pdb
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\obj\Debug\net9.0\gamemap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\obj\Debug\net9.0\gamemap.AssemblyInfoInputs.cache
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\obj\Debug\net9.0\gamemap.AssemblyInfo.cs
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\obj\Debug\net9.0\gamemap.csproj.CoreCompileInputs.cache
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\obj\Debug\net9.0\gamemap.dll
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\obj\Debug\net9.0\refint\gamemap.dll
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\obj\Debug\net9.0\gamemap.pdb
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\obj\Debug\net9.0\gamemap.genruntimeconfig.cache
+C:\Users\maiih\Downloads\Estrutura-de-Dados\game map\obj\Debug\net9.0\ref\gamemap.dll
