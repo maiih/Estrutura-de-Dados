@@ -1,8 +1,9 @@
 # Jogo da Velha
 
 ## Autores
-- Isaias Morais  
-- Maikelen Pasquali  
+- **Isaias Morais** ([@IsaiasMorais0456](https://github.com/IsaiasMorais0456))
+- **Maikelen Pasquali** - ([@maiih](https://github.com/maiih))
+
 
 
 ## Descrição
