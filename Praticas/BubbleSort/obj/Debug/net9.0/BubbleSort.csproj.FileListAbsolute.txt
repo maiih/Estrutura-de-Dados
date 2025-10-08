@@ -1,0 +1,14 @@
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\bin\Debug\net9.0\BubbleSort.exe
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\bin\Debug\net9.0\BubbleSort.deps.json
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\bin\Debug\net9.0\BubbleSort.runtimeconfig.json
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\bin\Debug\net9.0\BubbleSort.dll
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\bin\Debug\net9.0\BubbleSort.pdb
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\obj\Debug\net9.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\obj\Debug\net9.0\BubbleSort.AssemblyInfo.cs
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\obj\Debug\net9.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\obj\Debug\net9.0\BubbleSort.dll
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\obj\Debug\net9.0\refint\BubbleSort.dll
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\obj\Debug\net9.0\BubbleSort.pdb
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\obj\Debug\net9.0\BubbleSort.genruntimeconfig.cache
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\BubbleSort\obj\Debug\net9.0\ref\BubbleSort.dll

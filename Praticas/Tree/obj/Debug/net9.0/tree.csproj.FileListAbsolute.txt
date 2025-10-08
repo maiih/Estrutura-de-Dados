@@ -1,0 +1,15 @@
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\bin\Debug\net9.0\tree.exe
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\bin\Debug\net9.0\tree.deps.json
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\bin\Debug\net9.0\tree.runtimeconfig.json
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\bin\Debug\net9.0\tree.dll
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\bin\Debug\net9.0\tree.pdb
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\obj\Debug\net9.0\tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\obj\Debug\net9.0\tree.AssemblyInfoInputs.cache
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\obj\Debug\net9.0\tree.AssemblyInfo.cs
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\obj\Debug\net9.0\tree.csproj.CoreCompileInputs.cache
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\obj\Debug\net9.0\tree.sourcelink.json
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\obj\Debug\net9.0\tree.dll
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\obj\Debug\net9.0\refint\tree.dll
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\obj\Debug\net9.0\tree.pdb
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\obj\Debug\net9.0\tree.genruntimeconfig.cache
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Praticas\tree\obj\Debug\net9.0\ref\tree.dll
