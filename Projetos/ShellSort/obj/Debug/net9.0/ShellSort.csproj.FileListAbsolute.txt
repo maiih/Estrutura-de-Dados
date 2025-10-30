@@ -1,0 +1,15 @@
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\obj\Debug\net9.0\ShellSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\obj\Debug\net9.0\ShellSort.AssemblyInfoInputs.cache
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\obj\Debug\net9.0\ShellSort.AssemblyInfo.cs
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\obj\Debug\net9.0\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\obj\Debug\net9.0\ShellSort.sourcelink.json
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\bin\Debug\net9.0\ShellSort.exe
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\bin\Debug\net9.0\ShellSort.deps.json
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\bin\Debug\net9.0\ShellSort.runtimeconfig.json
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\bin\Debug\net9.0\ShellSort.dll
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\bin\Debug\net9.0\ShellSort.pdb
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\obj\Debug\net9.0\ShellSort.dll
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\obj\Debug\net9.0\refint\ShellSort.dll
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\obj\Debug\net9.0\ShellSort.pdb
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\obj\Debug\net9.0\ShellSort.genruntimeconfig.cache
+C:\Users\maiih\.Codando\Estrutura-de-Dados\Projetos\ShellSort\obj\Debug\net9.0\ref\ShellSort.dll
