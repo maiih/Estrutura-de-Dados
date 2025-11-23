@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ShellSort")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("biblioteca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+434bce1ccd711cdf05d103aeff54934f62913da9")]
-[assembly: System.Reflection.AssemblyProductAttribute("ShellSort")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ShellSort")]
+[assembly: System.Reflection.AssemblyProductAttribute("biblioteca")]
+[assembly: System.Reflection.AssemblyTitleAttribute("biblioteca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
